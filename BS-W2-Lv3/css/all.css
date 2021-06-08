@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+h1,.h2,.h3,.h4,.h5,.h6,.fs-1{
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  }
+.searchicon{
+   font-size: 24px;
+   margin-right: 1rem;
+}
+@media (min-width: 768px){
+.display-4 {
+    font-size: 3rem;
+ }}
+
+ .lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+.card p{
+    padding: 0;
+   
+}
+.card-title {
+    margin-bottom: 0rem !important;
+}
